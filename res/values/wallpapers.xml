@@ -17,6 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_atrix_mrom</item>
         <item>wallpaper_fitsnugly_cmearth</item>
         <item>wallpaper_jai_cmchrome</item>
         <item>wallpaper_prash_revolutionary</item>
@@ -45,6 +46,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>MROM :: mmontuori</item>
         <item>CM Earth :: Fitsnugly</item>
         <item>CM Chrome :: JaiThemes</item>
         <item>Revolutionary :: Prash</item>
